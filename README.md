@@ -1,3 +1,2 @@
 # MusicVisualizer
-It is a music spectrum visualizer
-Preprocess music spectrum data using matlab and visualize it. 
+It is a music spectrum visualizer. I use matlab to get music spectrum data and visualize it. 
